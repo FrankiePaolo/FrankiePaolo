@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @FrankiePaolo
-- 👀 I’m interested in Data Science, Software Development, the FinTech world and blockchain related technologies
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in Software Development, Data Science and the FinTech world
+- 🌱 I’m currently learning functional programming
